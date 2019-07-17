@@ -1,1 +1,1 @@
-run tpc to start
+run tsc to start
